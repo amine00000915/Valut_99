@@ -1,0 +1,8 @@
+Challenge 1: The Lost Weapon
+Storyline: 
+You have arrived at the first gate, but it’s locked and hidden somewhere nearby. 
+Legends say the gate can only be opened by a key forged from the letters scattered across ancient writings. 
+If you gather the letters correctly, you’ll reveal the word that will unlock the gate.
+Task: 
+Write a program to extract the first character from each line of a given text file.
+Then merge these characters in the order they appear to unlock the key.

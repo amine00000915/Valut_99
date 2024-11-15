@@ -1,0 +1,13 @@
+Challenge 3: The Gate of Shadows
+Storyline:
+You decode the Guardian’s message and step into a dimly lit hallway, the air thick with the weight of time.
+Ancient shields and rusted weapons line the walls.
+At the far end, a weathered gate stands, engraved with the word "Shadows." On the wall beside it, an inscription reads:  
+"I am what protects, yet I am not seen. I shield the warrior and never flee. Without me, you shall fall. What am I?"
+Task:  
+To unlock the gate, extract characters from the lines in a "stairs" pattern:
+- Line 1: Take the first character.  
+- Line 2: Take the last character.  
+- Line 3: Take the first character.  
+- Line 4: Take the last character.  
+- Line 5: Take the first character.  

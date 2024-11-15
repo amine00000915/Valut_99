@@ -1,0 +1,6 @@
+Challenge 0: The Entrance of the Vault
+Storyline:
+To begin your journey into Vault_99, you must first open the entrance.
+A text file holds the sacred word needed to unlock the gate. 
+Simply read the file and uncover the word that will open the way forward.
+Task: Write a program to read the file and print the content.

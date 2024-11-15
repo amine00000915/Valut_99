@@ -1,0 +1,13 @@
+Challenge 4: The Inscription of the Hidden Guard
+You enter Room 4 and see an ancient table filled with letters and numbers, with a mysterious inscription carved into the wall. 
+It reads:
+"Guarded in plain sight, letters hide within rows both humble and proud. Numbers deceive; only pure lines can reveal the answer.
+Look closely: where lower yields upper, and upper yields lower, the hidden name awaits."
+
+Task:
+Analyze each line in the table:
+
+Skip any line containing numbers.
+If a line has only lowercase letters, keep any uppercase letters in that line.
+If a line has only uppercase letters, keep any lowercase letters in that line.
+Combine the Letters: Join all the collected characters together, convert them to uppercase, and reveal the final codeword.

@@ -1,0 +1,21 @@
+Challenge 5: The Final Trial – The Guardian's Riddle
+
+Storyline:
+You’ve journeyed far through Vault_99, and now you stand before the final door, guarded by a powerful presence.
+A voice echoes, challenging you:
+"I am the keeper of the final secrets. Solve my riddle to pass, or remain forever blocked from the treasure within."
+
+The voice whispers:
+
+"I begin where the night ends,  
+And end where the dawn begins,  
+I protect the strong and defend the weak,  
+I am the shadow that never fades.  
+Who am I?"
+
+Task:
+To unlock the final door, extract the last character from each line of the riddle.
+Combine these letters to uppercase in order to reveal the name of the guardian.
+Only then will the path to the treasure be open.
+Hint:
+Remove the line with the repeated word.

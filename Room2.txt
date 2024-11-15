@@ -1,0 +1,16 @@
+Challenge 2: The Guardian’s Enigma
+Storyline:  
+Having unlocked the first gate with the Lost Weapon, you step into a dimly lit chamber, the walls covered in ancient, cryptic carvings.
+In the center, a stone pedestal holds an ominous scroll, its surface cracked with age. On the pedestal, an inscription reads:  
+"I protect the wearer, I shield the mind, but without me, you are vulnerable to all. What am I?"  
+The room trembles with a foreboding energy, ready to ensnare those who fail. The scroll holds the key to escape.
+Solve the riddle and the path will be revealed.
+Task:  
+To reveal the codeword and escape, extract one character from each line of the scroll (Challenge2.txt) following this pattern:
+- Line 1: Take the first character.  
+- Line 2: Take the second character.  
+- Line 3: Take the third character.  
+- Line 4: Take the fourth character.  
+- Line 5: Take the fifth character.  
+- Line 6: Take the sixth character.  
+Combine these characters in order to unlock the Guardian’s Enigma and proceed deeper into Vault_99.  
